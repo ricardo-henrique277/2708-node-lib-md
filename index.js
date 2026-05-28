@@ -36,4 +36,5 @@ async function pegaArquivo(caminhoDoArquivo) {
     }
 }
 
-pegaArquivo('./texto.md');
+pegaArquivo('./arquivos/texto.md');
+pegaArquivo('./arquivos/texto copy.md');
